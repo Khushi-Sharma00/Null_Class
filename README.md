@@ -2,7 +2,7 @@
 # Google Play Store Data Analysis
 This project involves analyzing Google Play Store apps using data analytics techniques. The tasks include visualizing installs, revenue, sentiment analysis, and time-series trends with various filtering conditions.
 
-# Tasks Overview
+**Tasks Overview**
 
 # Task 1: Sentiment Analysis of App Reviews
 Performed sentiment analysis on user reviews to classify them as positive, negative, or neutral.
@@ -30,6 +30,7 @@ Saved visualization as an HTML file for interactive viewing.
 # Next Steps
 Upload all visualizations and code to GitHub.
 Enhance dashboard integration for better insights.
+link :file:///C:/Users/ADMINI/web%20page.html
 
 # Technologies Used
 Python (Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn)
