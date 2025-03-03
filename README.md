@@ -30,7 +30,7 @@ Saved visualization as an HTML file for interactive viewing.
 # Next Steps
 Upload all visualizations and code to GitHub.
 Enhance dashboard integration for better insights.
-link :file:///C:/Users/ADMINI/web%20page.html
+link file:///C:/Users/ADMINI/web%20page.html
 
 # Technologies Used
 Python (Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn)
