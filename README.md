@@ -3,7 +3,8 @@
 This project involves analyzing Google Play Store apps using data analytics techniques. The tasks include visualizing installs, revenue, sentiment analysis, and time-series trends with various filtering conditions.
 
 # Tasks Overview
-Task 1: Sentiment Analysis of App Reviews
+
+# Task 1: Sentiment Analysis of App Reviews
 Performed sentiment analysis on user reviews to classify them as positive, negative, or neutral.
 Used Natural Language Processing (NLP) techniques taught during training.
 Created a stacked bar graph to visualize sentiment distribution.
